@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+    <link rel="stylesheet" type="text/css" href="css/Resume_style.css">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Resume Header -->
+    <div class="part1">
+        <div class="header">
+            <h1>My Rsume</h1>
+        </div>
+
+        <div class="image">
+            <img src="Images/Profile.jpg" width="200px" height="200px" alt="Profile picture of Darryll Pajaganas">
+        </div>
+
+        <h3>Darryll J. Pajaganas</h3>
+
+        <h2 id="contact">Contact Information</h2>
+        <ul>
+            <li>Email: pajaganasdarryll@gmail.com</li>
+            <li>GitHub: <a href="https://github.com/DarryllPj77">github.com/DarryllPj77</a></li>
+            <li>Phone: +63 962 997 3767</li>
+            <li>Address: Blk 22 Lot 1, Santol St., Palmera Woodlands, Brgy. Cupang, Antipolo City</li>
+        </ul>
+    </div>
+
+    <hr>
+    <div class="information">
+    <!-- About Section -->
+    <div class="part2">
+        <h2 id="about">About Me</h2>
+        <p>
+            I am Darryll Pajaganas, a second-year student pursuing a Bachelor of Science in Computer Science with a
+            specialization in Software Engineering at FEU Tech. I am a dedicated, hardworking, and fast-learning
+            individual who is eager to grow and contribute to a dynamic company. I thrive in team environments and am
+            always ready to face new challenges. I am seeking an internship where I can apply my skills and gain
+            real-world experience in software development.
+        </p>
+    </div>
+
+    <hr>
+
+    <!-- Skills Section -->
+    <h2 id="skills">Skills</h2>
+    <ul>
+        <li>Certified in Java</li>
+        <li>Certified in C++</li>
+        <li>Certified in Python</li>
+        <li>Proficient in Data Structures and Algorithms</li>
+        <li>Strong grasp of Conditional Statements</li>
+        <li>Proficient in Statistics and Probability</li>
+    </ul>
+
+    <hr>
+
+    <!-- Education Section -->
+    <h2 id="education">Education</h2>
+    <ul>
+        <li>FEU Tech - BS in Computer Science, Software Engineering (2021 - Present)</li>
+        <li>Marikina Catholic School - Senior High School (2018 - 2020)</li>
+        <li>The Pleasant Mount School - Junior High School (2014 - 2018)</li>
+    </ul>
+
+    <!-- Achievements Section -->
+    <h2>Achievements</h2>
+    <ul>
+        <li>Top 10 in the class of 2018</li>
+        <li>Top 9 in the class of 2017</li>
+    </ul>
+
+    <hr>
+
+    <!-- Experience Section -->
+    <h2 id="experience">Experience</h2>
+    <h3>Internships</h3>
+    <ul>
+        <li>Oracle Company (2022 - Present)</li>
+        <li>Prosple Philippines (2021 - 2022)</li>
+    </ul>
+
+    <hr>
+
+    <!-- Projects Section -->
+    <h2 id="projects">Projects / Portfolio</h2>
+    <ul>
+        <li>Online Voting System</li>
+        <li>Online Quiz System</li>
+        <li>Online Shopping System</li>
+        <li>Online Banking System</li>
+        <li>Online Reservation System</li>
+    </ul>
+    <p>More on GitHub: <a href="https://github.com/DarryllPj77">github.com/DarryllPj77</a></p>
+    </div>
+    <hr>
+
+    <div style="margin-top: 200px;"></div>
+    
+</body>
+
+</html>
